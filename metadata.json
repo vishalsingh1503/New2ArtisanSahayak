@@ -1,0 +1,8 @@
+{
+  "name": "Artisan-Sahayak",
+  "description": "An AI-powered marketplace assistant for rural Indian artisans to sell crafts using voice and minimal typing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
